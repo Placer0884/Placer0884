@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Placer</h1>
 <h3 align="center">A not very passionate frontend developer, not very much from India</h3>
 
+- 🔭 I'm currently studying
+- 
 - 🌱 I’m currently learning **python**
+
+- 📫 How to reach me **placer0884@gmail.com**
 
 - 💬 Ask me about **how my lunch was yesterday**
 
