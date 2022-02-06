@@ -3,13 +3,13 @@
 
 - 🔭 I'm currently studying
 
-- 🌱 I’m currently learning **python**
+  - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **placer0884@gmail.com**
+    - 📫 How to reach me **placer0884@gmail.com**
 
-- 💬 Ask me about **how my lunch was yesterday**
+      - 💬 Ask me about **how my lunch was yesterday**
 
-- ⚡ Fun fact **I think I am funny**
+        - ⚡ Fun fact **I think I am funny**
 
 **For more information, click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)**
 
